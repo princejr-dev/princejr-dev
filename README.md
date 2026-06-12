@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Prince 👋
 
-<!--
-**princejr-dev/princejr-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer from Cameroon 🇨🇲
 
-Here are some ideas to get you started:
+Currently building SmartBay, a property management platform designed to help landlords manage tenants, payments, leases and rental operations more efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+* Building SmartBay
+* React & Firebase
+* Product Development
+* SaaS Growth
+* Learning Marketing & Distribution
+
+## 🛠 Tech Stack
+
+Frontend:
+
+* React
+* Vite
+* Tailwind CSS
+
+Backend:
+
+* Firebase
+* Firestore
+* Node.js
+
+Tools:
+
+* Git
+* GitHub
+* Vercel
+* Figma
+
+## 📌 Featured Project
+
+### SmartBay
+
+Property management platform built for landlords and property managers.
+
+Features:
+
+* Tenant management
+* Payment tracking
+* PDF receipts
+* Lease reminders
+* Dashboard analytics
+
+## 📫 Connect
+
+* LinkedIn
+* X (Twitter)
+* Email
