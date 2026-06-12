@@ -1,6 +1,6 @@
 # Hi, I'm Prince Jr
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=3B82F6&width=700&lines=Founder+of+SmartBay;Building+Solutions+for+Landlords;Turning+Real+Problems+Into+Software;Learning+SaaS,+Product+%26+Marketing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=3B82F6&width=700&lines=Building+SmartBay;Turning+Real+Problems+Into+Software;Web+Developer+from+Cameroon;Learning+SaaS,+Product+%26+Marketing" />
 
 ## React Developer & SaaS Builder
 
