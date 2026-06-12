@@ -1,57 +1,100 @@
 # Hi, I'm Prince 👋
 
-Web Developer from Cameroon 🇨🇲
+## Web Developer & SaaS Builder
 
-Currently building SmartBay, a property management platform designed to help landlords manage tenants, payments, leases and rental operations more efficiently.
+I'm a web developer from Cameroon passionate about building useful digital products that solve real-world problems.
 
-## 🚀 Current Focus
+Currently, I'm building **SmartBay**, a property management platform designed to help landlords manage tenants, rent payments, receipts, contracts, and occupancy tracking from anywhere.
 
-* Building SmartBay
-* React & Firebase
-* Product Development
-* SaaS Growth
-* Learning Marketing & Distribution
+---
 
-## 🛠 Tech Stack
-
-Frontend:
-
-* React
-* Vite
-* Tailwind CSS
-
-Backend:
-
-* Firebase
-* Firestore
-* Node.js
-
-Tools:
-
-* Git
-* GitHub
-* Vercel
-* Figma
-
-## 📌 Featured Project
+## 🚀 Current Project
 
 ### SmartBay
 
-Property management platform built for landlords and property managers.
+SmartBay is a modern property management SaaS focused on simplifying rental management.
 
-Features:
+Current features:
 
-* Tenant management
-* Payment tracking
-* PDF receipts
-* Lease reminders
-* Dashboard analytics
+* Tenant Management
+* PDF Receipt Generation
+* Expiration Alerts
+* Tenant Folders
+* Email Authentication
+* Google Authentication
+* Mobile Dashboard
+* Desktop Dashboard
+* Dark Mode
+* Update Notifications
 
-## 📫 Connect
+Upcoming features:
 
-* LinkedIn
-* X (Twitter)
-* Email
+* Rental Contracts PDF
+* BaySign Digital Signature
+* Property Management
+* AI Assistant for Landlords
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
+
+### Backend & Database
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+
+### Deployment
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+
+---
+
+## 🌱 Currently Learning
+
+* SaaS Product Development
+* Software Architecture
+* SEO & GEO
+* Product Marketing
+* User Acquisition
+* AI Agents
+
+---
+
+## 🎯 My Philosophy
+
+I don't build projects just to learn code.
+
+I build products based on real-world problems.
+
+Many SmartBay features come directly from challenges observed in real property management situations.
+
+---
+
+## 📈 2026 Goals
+
+* Grow SmartBay
+* Get real users and feedback
+* Improve software architecture skills
+* Learn product marketing
+* Launch BaySign
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: Your LinkedIn URL
+* X (Twitter): Your X URL
+* Portfolio: Your Portfolio URL
+
+---
+
+> Building solutions, learning every day, and turning real problems into software.
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
