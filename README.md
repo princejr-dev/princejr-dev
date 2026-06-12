@@ -1,4 +1,4 @@
-# Hi, I'm Prince Jr
+# Hi, I'm Prince Jr 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=3B82F6&width=700&lines=Founder+of+SmartBay;Turning+Real+Problems+Into+Software;React+Developer+from+Cameroon;Learning+SaaS,+Product+%26+Marketing" />
 
@@ -10,7 +10,7 @@ Currently, I'm building **SmartBay**, a property management platform designed to
 
 ---
 
-## Current Project
+## 🚀 Current Project
 
 ### SmartBay
 
@@ -38,7 +38,7 @@ Upcoming features:
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### Frontend
 
@@ -56,7 +56,7 @@ Upcoming features:
 
 ---
 
-## Currently Learning
+## 🌱 Currently Learning
 
 * SaaS Product Development
 * Software Architecture
@@ -67,7 +67,7 @@ Upcoming features:
 
 ---
 
-## My Philosophy
+## 🎯 My Philosophy
 
 I don't build projects just to learn code.
 
@@ -77,7 +77,7 @@ Many SmartBay features come directly from challenges observed in real property m
 
 ---
 
-## 2026 Goals
+## 📈 2026 Goals
 
 * Grow SmartBay
 * Get real users and feedback
@@ -87,12 +87,14 @@ Many SmartBay features come directly from challenges observed in real property m
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 * LinkedIn: https://linkedin.com/in/@prince-jr
 * X (Twitter): https://x.com/@princejr_dev
 * Portfolio: https://princejr.vercel.app
 
 ---
+
+> Building solutions, learning every day, and turning real problems into software.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princejr-dev&show_icons=true)
