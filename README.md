@@ -89,9 +89,9 @@ Many SmartBay features come directly from challenges observed in real property m
 
 ## Connect With Me
 
-* LinkedIn: Your LinkedIn URL
-* X (Twitter): Your X URL
-* Portfolio: Your Portfolio URL
+* LinkedIn: @princejr_dev
+* X (Twitter): @princejr_dev
+* Portfolio: princejr.vercel.app
 
 ---
 
