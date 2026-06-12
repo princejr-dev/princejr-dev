@@ -97,4 +97,8 @@ Many SmartBay features come directly from challenges observed in real property m
 
 > Building solutions, learning every day, and turning real problems into software.
 
+---
+
+## GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princejr-dev&show_icons=true)
