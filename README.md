@@ -1,4 +1,6 @@
-# Hi, I'm Prince 👋
+# Hi, I'm Prince Jr
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&width=600&lines=Web+Developer;Building+SmartBay;Learning+Product+and+Marketing" />
 
 ## Web Developer & SaaS Builder
 
@@ -8,7 +10,7 @@ Currently, I'm building **SmartBay**, a property management platform designed to
 
 ---
 
-## 🚀 Current Project
+## Current Project
 
 ### SmartBay
 
@@ -36,7 +38,7 @@ Upcoming features:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -54,7 +56,7 @@ Upcoming features:
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 * SaaS Product Development
 * Software Architecture
@@ -65,7 +67,7 @@ Upcoming features:
 
 ---
 
-## 🎯 My Philosophy
+## My Philosophy
 
 I don't build projects just to learn code.
 
@@ -75,7 +77,7 @@ Many SmartBay features come directly from challenges observed in real property m
 
 ---
 
-## 📈 2026 Goals
+## 2026 Goals
 
 * Grow SmartBay
 * Get real users and feedback
@@ -85,21 +87,12 @@ Many SmartBay features come directly from challenges observed in real property m
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * LinkedIn: Your LinkedIn URL
 * X (Twitter): Your X URL
 * Portfolio: Your Portfolio URL
 
 ---
-
-> Building solutions, learning every day, and turning real problems into software.
-
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&width=600&lines=Web+Developer;Building+SmartBay;Learning+Product+and+Marketing" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princejr-dev&show_icons=true)
