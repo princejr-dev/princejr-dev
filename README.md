@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&width=600&lines=Web+Developer;Building+SmartBay;Learning+Product+and+Marketing" />
 
-## Web Developer & SaaS Builder
+## React Developer & SaaS Builder
 
-I'm a web developer from Cameroon passionate about building useful digital products that solve real-world problems.
+I'm a react developer from Cameroon passionate about building useful digital products that solve real-world problems.
 
 Currently, I'm building **SmartBay**, a property management platform designed to help landlords manage tenants, rent payments, receipts, contracts, and occupancy tracking from anywhere.
 
