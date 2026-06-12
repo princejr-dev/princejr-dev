@@ -89,7 +89,7 @@ Many SmartBay features come directly from challenges observed in real property m
 
 ## Connect With Me
 
-* LinkedIn: https://linkedin/in/@princejr-dev
+* LinkedIn: https://linkedin.com/in/@prince-jr
 * X (Twitter): https://x.com/@princejr_dev
 * Portfolio: https://princejr.vercel.app
 
